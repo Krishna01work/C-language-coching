@@ -176,6 +176,47 @@ IN this code all loop statement related questions .
         ,using nested for loop </td>
         <td>nfs2.c</td>
     </tr>
+     <tr>
+        <td>WAP to print this pattern
+            <br>                      1
+            <br>                      22
+            <br>                      333
+                <br>                  4444
+                    <br>              55555
+                        <br>          666666
+        ,using nested for loop </td>
+        <td>nfs3.c</td>
+    </tr>
+     <tr>
+        <td>WAP to print this pattern
+            <br>                      ******
+            <br>                      *****
+            <br>                      ****
+                <br>                  ***
+                    <br>              **
+                        <br>          *
+        ,using nested for loop </td>
+        <td>nfs4.c</td>
+    </tr>
+     <tr>
+        <td>WAP to print this pattern
+            <br>                      123456
+            <br>                      12345
+            <br>                      1234
+                <br>                  123
+                    <br>              12
+                        <br>          1
+        ,using nested for loop </td>
+        <td>nfs5.c</td>
+    </tr>
+      <tr>
+        <td>WAP to print square of given step using a function declaration with return </td>
+        <td>Func.c</td>
+    </tr>
+      <tr>
+        <td>WAP to print the factorial of given number using a function declaration with return </td>
+        <td>Func1.c</td>
+    </tr>
 </table>
 <h2>I hope you like it</h2>     
 <h1>KRISHNA</h1>
