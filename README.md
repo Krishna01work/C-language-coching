@@ -4,7 +4,7 @@ IN this code all loop statement related questions .
             
 <table>
     <tr>
-        <th><h3>questions</h3></th>
+        <th><h3>Questions</h3></th>
         <th><h3>File name </h3></th>
     </tr>
     <tr>
