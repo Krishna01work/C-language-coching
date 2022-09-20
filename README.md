@@ -210,12 +210,20 @@ IN this code all loop statement related questions .
         <td>nfs5.c</td>
     </tr>
       <tr>
-        <td>WAP to print square of given step using a function declaration with return </td>
+        <td>WAP to print Square of given step using a function , declaration with return </td>
         <td>Func.c</td>
     </tr>
       <tr>
-        <td>WAP to print the factorial of given number using a function declaration with return </td>
+        <td>WAP to print the Factorial of given number using a function , declaration with return </td>
         <td>Func1.c</td>
+    </tr>
+    <tr>
+        <td>WAP to print Sum of n natural numbers using a function , declaration with return </td>
+        <td>Func2.c</td>
+    </tr>
+    <tr>
+        <td>WAP to print Fibonacci series for given step using a function  </td>
+        <td>Func3.c</td>
     </tr>
 </table>
 <h2>I hope you like it</h2>     
