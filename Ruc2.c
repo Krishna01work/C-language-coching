@@ -14,13 +14,10 @@ int main()
     {
         return 0;
     }
-    if (n==1)
-    {
-        return 1;
-    }
     else
     {
     val = (n+(n-1))+squar(n-1);
+    printf("%d",val);
     return (val);      
     }
 } 
