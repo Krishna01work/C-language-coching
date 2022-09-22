@@ -225,6 +225,26 @@ IN this code all loop statement related questions .
         <td>WAP to print Fibonacci series for given step using a function  </td>
         <td>Func3.c</td>
     </tr>
+     <tr>
+        <td>WAP to print Sum of two number using as global variables  </td>
+        <td>Func4.c</td>
+    </tr>
+     <tr>
+        <td>WAP to print sum of n non-negative integer using Recursion  </td>
+        <td>Ruc.c</td>
+    </tr>
+     <tr>
+        <td>WAP to print factorial of given no. using Recursion  </td>
+        <td>Ruc1.c</td>
+    </tr>
+     <tr>
+        <td>WAP to print square of given step using Recursion </td>
+        <td>Ruc2.c</td>
+    </tr>
+      <tr>
+        <td>WAP to print n term of Fibonacci series  using a Recursion  </td>
+        <td>Ruc3.c</td>
+    </tr>
 </table>
 <h2>I hope you like it</h2>     
 <h1>KRISHNA</h1>
