@@ -245,6 +245,22 @@ IN this code all loop statement related questions .
         <td>WAP to print n term of Fibonacci series  using a Recursion  </td>
         <td>Ruc3.c</td>
     </tr>
+      <tr>
+        <td>WAP to display elements on screen  </td>
+        <td>arr.c</td>
+    </tr>
+      <tr>
+        <td>WAP to calculate sum of arrays elements  </td>
+        <td>arr1.c</td>
+    </tr>
+      <tr>
+        <td>WAP to arrange arrays element in ascending order  </td>
+        <td>arr2.c</td>
+    </tr>
+      <tr>
+        <td>WAP to arrange arrays elements in discending order  </td>
+        <td>arr3.c</td>
+    </tr>
 </table>
 <h2>I hope you like it</h2>     
 <h1>KRISHNA</h1>
