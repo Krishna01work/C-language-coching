@@ -1,6 +1,6 @@
  # C-language-coching
 <p>this is a c file of class work.
-IN this code all loop statement related questions .
+IN this ripo. all c language related questions and their solutions.
             
 <table>
     <tr>
